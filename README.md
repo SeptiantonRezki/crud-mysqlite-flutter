@@ -1,6 +1,11 @@
 # uap_pamp
 
-A new Flutter project.
+Nama projek ini sebenarnya adalah uap_pamp, sehingga jika ingin mengakses file lain maka harus menggunakan uap_pamp bukan crud-mysqlite-flutter
+contoh
+benar:
+import 'package:uap_pamp/model/book.dart';
+salah:
+import 'package:crud-mysqlite-flutter/model/book.dart';
 
 ## Getting Started
 
